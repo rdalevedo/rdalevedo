@@ -1,4 +1,4 @@
-### Olá! eu sou o Rodrigo 👋
+### Olá!👋 Eu sou o Rodrigo 
 
 - 🔭 Sou analista de atendimentos
 - 🌱 Estudando Análise e desenvolvimento de sistemas web
@@ -22,4 +22,7 @@
     <a href = "https://www.linkedin.com/in/rodrigo-dalevedo-b38b2024/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23007785?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href = "mailto:rdalevedo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_black"></a>
     <a href = "https://www.instagram.com/rodrigodalevedo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = 
   </div>
+
+    https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
